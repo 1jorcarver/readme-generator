@@ -3,9 +3,15 @@
   # README-GENERATOR
 
   ## Description  
+<<<<<<< HEAD
   The application allows you to quickly create a README.md file which allows you to spend more time on the core of your project.
 
   ![Functionality of the Application](https://j.gifs.com/71Gp7y.gif)
+=======
+  Save time, focus more on your core project, and let the README-GENERATOR do you a solid!
+  
+  ![Example Gif](https://j.gifs.com/71Gp7y.gif)
+>>>>>>> c014df2126d646df5ed1bd6715c5d174175925dd
 
   ## Table of Contents
   * [Installation](#installation)
