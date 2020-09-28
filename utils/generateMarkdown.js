@@ -7,7 +7,7 @@ function generateMarkdown(data) {
   ## Description  
   ${data.description}
 
-  [Functionality of the Application](https://gifs.com/gif/readme-generator-71Gp7y)
+  ![Functionality of the Application](https://gifs.com/gif/readme-generator-71Gp7y)
 
   ## Table of Contents
   * [Installation](#installation)
