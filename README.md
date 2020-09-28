@@ -4,6 +4,8 @@
 
   ## Description  
   Save time, focus more on your core project, and let the README-GENERATOR do you a solid!
+  
+  ![Example Gif](https://j.gifs.com/71Gp7y.gif)
 
   ## Table of Contents
   * [Installation](#installation)
