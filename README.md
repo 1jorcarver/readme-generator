@@ -3,7 +3,9 @@
   # README-GENERATOR
 
   ## Description  
-  Save time, focus more on your core project, and let the README-GENERATOR do you a solid!
+  The application allows you to quickly create a README.md file which allows you to spend more time on the core of your project.
+
+  ![Functionality of the Application](https://j.gifs.com/71Gp7y.gif)
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,16 +14,16 @@
   * [License](#license)
 
   ## Installation
-  Instructions to install the README-GENERATOR are 1) ensure you have Node.js, 2) install NPM, 3) install NPM Inquirer by typing NPM install inquirer, 4) download the file for this project
+  Install the application by downloading the README-GENERATOR file, have Node.js on your computer, and install NPM and NPM inquirer. 
 
   ## Usage
-  The project is used by calling node index.js and then answering the following questions.
+  Use node index.js in the terminal. You will then be prompted with questions regarding your project to create the README.md.
 
   ## Credits
-  @Xandromus https://github.com/Xandromus for his groovy starter code.
+  Xandromus - his starter code was awesome. Sean, the TA, had intuitive insight.
 
   ## License
-  MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
   *Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.*
@@ -32,5 +34,5 @@
   * GitHub Profile: https://github.com/1jorcarver
   * Preferred Method of Communication:
     * Please email me with any questions, contribution requests, or concerns.
-    * jordan_carver@hotmail.com
+    * Email: jordan_carver@hotmail.com
 

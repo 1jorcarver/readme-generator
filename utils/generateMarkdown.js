@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   * GitHub Profile: ${data.link}
   * Preferred Method of Communication:
     * Please email me with any questions, contribution requests, or concerns.
-    * ${data.email}
+    * Email: ${data.email}
 
 `;
 }
